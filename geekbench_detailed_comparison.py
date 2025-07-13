@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Author: K. Brahmanandan
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
